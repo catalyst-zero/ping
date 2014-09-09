@@ -1,3 +1,4 @@
 ping
 pkg
 src
+.gobuild/
