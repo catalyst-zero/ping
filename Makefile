@@ -2,7 +2,7 @@ PROJECT=ping
 
 BUILD_PATH := $(shell pwd)/.gobuild
 
-.PHONY=all get-deps build
+.PHONY=all get-deps build clean
 
 PROJECT_PATH := "$(BUILD_PATH)/src/github.com/catalyst-zero"
 
